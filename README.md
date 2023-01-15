@@ -1,9 +1,10 @@
 # pyrostepper
 Opensource Feuerwerkzündanlage (Stepper)
 
-Arduino Projekt.
+### Ein Arduino Projekt von Reclof.
 
 Diese Projekt beschäftigt sich mit einer selbstgebauten Feuerwerkzündanlage:
+Warum? Weil ich lust darauf habe und ich es kann :). Es gib sicherlich auch fertige Anlagen auf dem Markt, aber selber bauen macht mehr spaß!
 
 ## Funktionsbeschreibung:
 

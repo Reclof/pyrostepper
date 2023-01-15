@@ -11,7 +11,7 @@ Warum? Weil ich lust darauf habe und ich es kann :). Es gib sicherlich auch fert
 - Arduino Uno 
 - 24 Kanäle nacheinander zeitgesteuert zünden.
 - Speicherung der unterschiedlichen Laufzeiten je Kanal bis zur nächsten Zündung
-- Sekundengenaue Taktung (Genauer ist mit meinem Hobby nicht erforderlich), eine Zündung mit 1/10 oder genauer würde sich bei Anpassung umsetzen lassen.
+- Sekundengenaue Taktung (genauer ist mit meinem Hobby nicht erforderlich), eine Zündung mit 1/10 oder genauer würde sich bei Anpassung umsetzen lassen.
 - LCD Anzeige auf 20x4 zur Programmierung
 - 7-Segmentanzeige zur schnellen Info aus größerer Entfernung
 - 24 LEDs zeigen den Kanal an, wenn dieser zündet

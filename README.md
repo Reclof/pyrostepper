@@ -18,3 +18,8 @@ Warum? Weil ich lust darauf habe und ich es kann :). Es gib sicherlich auch fert
 - Prüfung der Kanäle auf geschlossene Zündkreise
 - Zündkreispannung ab 6V oder höher
 - USB Power Pack zur Stromversorgung der Elektronik und des Arduinos
+
+## Sketche:
+
+- pyrostepper.ino: Version 1.1 - Ohne Mux (Messung der Kanäle)
+- pyrostepper12.ino: Version 1.2 - Mit Messing der Kanäle mittels MUX

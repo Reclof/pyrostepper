@@ -15,6 +15,6 @@ Warum? Weil ich lust darauf habe und ich es kann :). Es gib sicherlich auch fert
 - LCD Anzeige auf 20x4 zur Programmierung
 - 7-Segmentanzeige zur schnellen Info aus größerer Entfernung
 - 24 LEDs zeigen den Kanal an, wenn dieser zündet
-- Galvanische Trennung zwischen Elektronik und Zündkreis. 
+- Prüfung der Kanäle auf geschlossene Zündkreise
 - Zündkreispannung ab 6V oder höher
 - USB Power Pack zur Stromversorgung der Elektronik und des Arduinos
